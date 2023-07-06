@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 <h3 align="center">A Final Year CSE Graduate at NIT PATNA</h3>
 <hr>
-<h4>Welcome to my GitHub Page😊</h4>
+<h4 align="center">Welcome to my GitHub Page 😊</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=B2-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="B2-Kumar" /> </p>
 
