@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B2-Kumar" alt="B2-Kumar" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development (MERN) and Data Structures and Algorithms in C++.**
+- **🌟 Skilled in Full Stack Web Development (MERN) and proficient in Data Structures and Algorithms.**
 - <b>👨‍💻 All of my projects are available at</b> : <code><a href="https://github.com/B2-Kumar?tab=repositories">Click Me</a></code></li>
 
 - <b>How to reach me</b>: <code><a href="mailto:bittukumar1181@gmail.com">Send Email</a></code>
