@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
 <h3 align="center">A Final Year CSE Graduate at NIT PATNA</h3>
 <hr>
-##### Welcome to my GitHub Page😊
+<h4>Welcome to my GitHub Page😊</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=B2-Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="B2-Kumar" /> </p>
 
@@ -23,13 +23,12 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bittu_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bittu-kumar-7600a51b4/)](https://www.linkedin.com/in/bittu-kumar-7600a51b4/)
-[![Gmail Badge](https://img.shields.io/badge/-bittukumar1181@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:bittukumar1181@gmail.com)](mailto:bittukumar1181@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/b2kumar.810-c14438?style=flat-square&logo=Instagram&logoColor=pink&link=https://www.instagram.com/b2kumar.810)](https://www.instagram.com/b2kumar.810)
-[![Twitter Badge](https://img.shields.io/badge/-@BittuKu95582500-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BittuKu95582500)](https://twitter.com/BittuKu95582500)
-
+  <a href="https://www.linkedin.com/in/bittu-kumar-7600a51b4/" target="_blank"><img src="https://img.shields.io/badge/-Bittu_kumar-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge"></a>
+  <a href="mailto:bittukumar1181@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-bittukumar1181%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black" alt="Gmail Badge"></a>
+  <a href="https://www.instagram.com/b2kumar.810" target="_blank"><img src="https://img.shields.io/badge/b2kumar.810-c14438?style=flat-square&logo=Instagram&logoColor=pink" alt="Instagram Badge"></a>
+  <a href="https://twitter.com/BittuKu95582500" target="_blank"><img src="https://img.shields.io/badge/-@BittuKu95582500-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
 </p>
+
 
 <hr>
 
@@ -94,4 +93,4 @@
 
 ![image](https://github.githubassets.com/images/modules/site/home/footer-illustration.svg)
 
-# Happy Coding!!!😀
+<h1 align="center" >Happy Coding!!!😀 <h1>
