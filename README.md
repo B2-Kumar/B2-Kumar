@@ -15,7 +15,7 @@
 - <b>Connect on LinkedIn</b> : <code><a href="https://www.linkedin.com/in/bittu-kumar-7600a51b4/">LinkedIn</a></code></li>
 - <b>My Portfolio</b> : <code><a href="https://portfolio-b2-kumar.vercel.app/">Portfolio</a></code></li>
 
-- <b>My Resume</b> : <code><a href="https://drive.google.com/file/d/1FKpXGrG8YBdZba67C62M6eHJlyLUYuAy/view">Click Me</a></code></li>
+- <b>My Resume</b> : <code><a href="https://drive.google.com/file/d/1bRRpmMANP_j9EAA4OVTK1TJvd4LYkvOa/view">Click Me</a></code></li>
 
 - **Looking for Job Oppoptunity (SDE Roles).**
 
