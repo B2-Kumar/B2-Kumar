@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bittu Kumar</h1>
-<h3 align="center">A Final Year CSE Graduate at NIT PATNA</h3>
+<h3 align="center">A CSE Graduate (2024 Passout) from NIT PATNA</h3>
 <hr>
 <h4 align="center">Welcome to my GitHub Page 😊</h4>
 
