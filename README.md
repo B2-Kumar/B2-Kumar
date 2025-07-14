@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=B2-Kumar" alt="B2-Kumar" /></a> </p>
 
-- **🌟 Skilled in Full Stack Web Development (MERN) and proficient in Data Structures and Algorithms.**
+- **🌟 Skilled in Full Stack Web Development and proficient in Data Structures and Algorithms.**
 - <b>👨‍💻 All of my projects are available at</b> : <code><a href="https://github.com/B2-Kumar?tab=repositories">Click Me</a></code></li>
 
 - <b>How to reach me</b>: <code><a href="mailto:bittukumar1181@gmail.com">Send Email</a></code>
@@ -44,6 +44,9 @@
  <a href="https://sass-lang.com/">
     <img src="https://img.shields.io/badge/scss%20-%23CC6699.svg?&style=for-the-badge&logo=SASS&logoColor=white" />
   </a>
+  <a href="https://spring.io/projects/spring-boot">
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
+</a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   </a>
@@ -57,6 +60,10 @@
  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase" /></a>
  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> </a>
+  <a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</a>
+
 
  </p>
 
