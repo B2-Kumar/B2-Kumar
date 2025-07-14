@@ -59,6 +59,9 @@
  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge" /></a>
  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?&style=for-the-badge&logo=firebase" /></a>
  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
   <a href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> </a>
   <a href="https://aws.amazon.com/">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
